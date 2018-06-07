@@ -1,0 +1,16 @@
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\bin\Release\Newtonsoft.Json.dll
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\bin\Release\Newtonsoft.Json.xml
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\obj\Release\XKM-P Nebulous API.csprojResolveAssemblyReference.cache
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\obj\Release\XKM-P Nebulous API.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\bin\Release\Nebulous API.dll
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\bin\Release\Nebulous API.pdb
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\obj\Release\Nebulous API.dll
+C:\Users\firat\source\repos\XKM-P Nebulous API\XKM-P Nebulous API\obj\Release\Nebulous API.pdb
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\bin\Release\Nebulous API.dll
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\bin\Release\Nebulous API.pdb
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\bin\Release\Newtonsoft.Json.dll
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\bin\Release\Newtonsoft.Json.xml
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\obj\Release\XKM-P Nebulous API.csprojResolveAssemblyReference.cache
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\obj\Release\XKM-P Nebulous API.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\obj\Release\Nebulous API.dll
+C:\Users\firat\source\repos\XKM-P Nebulous API\project\XKM-P Nebulous API\obj\Release\Nebulous API.pdb
